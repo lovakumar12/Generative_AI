@@ -9,7 +9,7 @@ llamaChatModel = ChatGroq(
 )
 
 mistralChatModel = ChatGroq(
-    model="mixtral-8x7b-32768"
+    model="mixtral-8x7b-32768" ########### depricated
 )
 
 messages = [
