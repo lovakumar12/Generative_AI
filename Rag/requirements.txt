@@ -15,3 +15,5 @@ langchain_milvus ==0.1.8
 neo4j==5.26.0
 langchain-groq==0.1.6
 langchainhub
+langserve==0.2.2
+langgraph==0.1.19
